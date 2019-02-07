@@ -40,5 +40,5 @@ for scale=scales:-1:1
     end
     
     [u, k] = blind_LP_FW(fs, MKs, NKs, lambda, blind_params);
-    k = k.*(k>0.05*max(k(:)));k = k./sum(k(:));
+%    k = k.*(k>0.05*max(k(:)));k = k./sum(k(:));
 end
