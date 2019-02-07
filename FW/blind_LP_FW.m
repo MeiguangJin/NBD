@@ -85,7 +85,6 @@ for  it = 1:params.iters
         end
     end
 end
-k = k./sum(k(:));
 
 
 
