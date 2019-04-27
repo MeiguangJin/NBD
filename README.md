@@ -14,4 +14,4 @@ year = {2018}
 }  
 
 ## **Contact**
-If you have any suggestions and questions, please send an email to jin@inf.unibe.ch
+If you have any suggestions and questions, please send an email to jinmeiguang@gmail.com
